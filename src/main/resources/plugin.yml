@@ -1,0 +1,6 @@
+name: Craftables
+version: ${project.version}
+main: de.emkace.craftables.Craftables
+api-version: 1.13
+authors: [EmKaCe]
+description: Makes a few items craftable
